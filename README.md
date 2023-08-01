@@ -10,6 +10,14 @@
 
 >**Data Visualization** - Excel
 
+# Methodology:
+> **Requirement**: Develop a dynamic Dashboard to identify customer requirements and market trend for 
+improving sales.
+
+> **Action**: Cleaning data by removing null values, changing data type. Transformed and filtered data by 
+aggregating and filtering function to improve reporting process. Created pivot table and compatible 
+charts using Excel. Developed a dynamic dashboard using slicer including KPI’s like sales, orders, 
+profit margin, region wise sales, category wise sales etc. 
 # Summary:
 - Overall Sales of $2297.20k with average YOY Growth of 15.70% was recorded over the year 2011-2014.
 - Total Profit of $286.40k with Profit Margin of 12.47% was gained over the year 2011-2014.
